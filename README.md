@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cywus98213&label=Profile%20views&color=0e75b6&style=flat" alt="cywus98213" /> </p>
 
-- 🔭 I’m currently working on [Camp-Vuiw](https://github.com/Cywus98213/Camp-Vuiw)
+- 🔭 I’m currently working on [budgetBuddy](https://github.com/Cywus98213/budgetBuddy) 
 
 - 🌱 I’m currently learning **Vue, Mongodb, Javascript, Node, Express, TailwindCSS, TypeScript**
 
