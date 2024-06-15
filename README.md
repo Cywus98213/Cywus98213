@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [HKongnect](https://github.com/Cywus98213/HKongnect/tree/dev) 
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Vue, Mongodb, Javascript, Node, Express, TailwindCSS, TypeScript**
 
