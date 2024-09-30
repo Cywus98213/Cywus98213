@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Vue, Mongodb, Javascript, Node, Express, TailwindCSS, TypeScript**
+- 🌱 I’m currently learning **Vue, Mongodb, Javascript, Node, Express, TailwindCSS, TypeScript, NextJs, Python, Java**
 
 - ⚡ Fun fact **I love Dog, especially Husky**
 
