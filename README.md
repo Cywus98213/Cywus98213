@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Spring Boot, image classification
 
 - 🌱 I’m currently learning **Vue, Mongodb, Javascript, Node, Express, TailwindCSS, TypeScript, NextJs, Python, Java**
 
